@@ -1,0 +1,13 @@
+.app {
+  text-align: center;
+  padding: 50px 20px 50px 20px;
+}
+.productList {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 10px;
+}
+.item {
+  margin-top: 1rem;
+}
